@@ -136,3 +136,28 @@ ul li:hover {
     display: block;
   }
 }
+
+tr:nth-child(even) {
+  background-color: #191c1c;
+}  
+table, th, td {
+        border: 1px solid rgb(230, 225, 225);
+        border-collapse: collapse;
+        padding: 15px;
+        
+      } 
+      .thClass{
+        
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:rgb(20, 57, 220);
+      }
+      .tdCenter
+      {
+        text-align:center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:crimson;
+       
+      }
+     
+  
+    
